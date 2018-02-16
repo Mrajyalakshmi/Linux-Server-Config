@@ -3,7 +3,9 @@ Udacity-FullStack-Project6
 
 ## 1 Server details:
 VM IP: ec2-52-36-184-198.us-west-2.compute.amazonaws.com ( 52.36.184.198 )
+
 Access Movies Catalog web application: http://ec2-52-36-184-198.us-west-2.compute.amazonaws.com
+
 SSH Port : 2200
 
 ## 2 Access Server for user : `grader`
